@@ -10,4 +10,5 @@ public class Context : DbContext
     }
    
    public DbSet<Monster>? Monsters {get;set;}
+   public DbSet<Movie>? Movies {get; set;}
 }

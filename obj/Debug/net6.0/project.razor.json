@@ -16298,6 +16298,11 @@
   "RootNamespace": "KaijuDex",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Movie\\Delete.cshtml",
+      "TargetPath": "Views\\Movie\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16328,6 +16333,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Movie\\Index.cshtml",
+      "TargetPath": "Views\\Movie\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Movie\\Details.cshtml",
+      "TargetPath": "Views\\Movie\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Monster\\Index.cshtml",
       "TargetPath": "Views\\Monster\\Index.cshtml",
       "FileKind": "mvc"
@@ -16353,8 +16368,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Movie\\Create.cshtml",
+      "TargetPath": "Views\\Movie\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Monster\\Edit.cshtml",
       "TargetPath": "Views\\Monster\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Andy\\Desktop\\KaijuDex\\Views\\Movie\\Edit.cshtml",
+      "TargetPath": "Views\\Movie\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

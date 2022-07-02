@@ -27,6 +27,10 @@ namespace KaijuDex.Migrations
                     b.Property<string>("Creator")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("ImageURL")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Title")
                         .HasColumnType("TEXT");
 
@@ -42,6 +46,9 @@ namespace KaijuDex.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Director")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ImageURL")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Title")

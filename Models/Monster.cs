@@ -8,5 +8,5 @@ public class Monster
     public string? Creator {get; set;}
     public int BirthYear {get; set;}
 
-    public string? ImageURL {get; set;}
+    public string? SpecialAttack {get; set;}
 }

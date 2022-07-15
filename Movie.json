@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Title": "Godzilla",
+        "Director": "Ishiro Honda",
+        "YearReleased": 1954
+    },
+    {
+        "ID": 2,
+        "Title": "Mothra",
+        "Director": "Ishiro Honda",
+        "YearReleased": 1961
+    },
+    {
+        "ID": 3,
+        "Title": "Ghidorah, the Three Headed Monster",
+        "Director": "Ishiro Honda",
+        "YearReleased": 1965
+    },
+    {
+        "ID": 4,
+        "Title": "Gamera, the Giant Monster",
+        "Director": "Noriaki Yuasa",
+        "YearReleased": 1965
+    },
+    {
+        "ID": 5,
+        "Title": "Godzilla vs. Mechagodzilla",
+        "Director": "Jun Fukuda",
+        "YearReleased": 1974
+    },
+    {
+        "ID": 6,
+        "Title": "King Kong",
+        "Director": "Merian C. Cooper",
+        "YearReleased": 1933
+    }
+]

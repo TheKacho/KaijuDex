@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 1,
+        "Title": "Godzilla",
+        "Creator": "Tomoyuki Tanaka",
+        "Birth Year": 1954,
+        "SpecialAttack": "Atomic Breath"
+    },
+    {
+        "ID": 2,
+        "Title": "Mothra",
+        "Creator": "Shinichiro Nakamura",
+        "Birth Year": 1961,
+        "SpecialAttack": "SuperSonic Flight"
+    },
+    {
+        "ID": 3,
+        "Title": "King Ghidorah",
+        "Creator": "Tomoyuki Tanaka",
+        "Birth Year": 1964,
+        "SpecialAttack": "Triple Thunder Blast"
+    },
+    {
+        "ID": 4,
+        "Title": "Gamera",
+        "Creator": "Yonejiro Saito",
+        "Birth Year": 1964,
+        "SpecialAttack": "Flamethrower"
+    },
+    {
+        "ID": 5,
+        "Title": "MechaGodzilla",
+        "Creator": "Unknown",
+        "Birth Year": 1974,
+        "SpecialAttack": "Space Beam"
+    },
+    {
+        "ID": 6,
+        "Title": "King Kong",
+        "Creator": "Edgar Wallace",
+        "Birth Year": 1933,
+        "SpecialAttack": "Giant Punch"
+    }
+]

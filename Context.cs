@@ -12,7 +12,9 @@ public class Context : DbContext
    
     // protected override void OnModelCreating(ModelBuilder modelBuilder)
     // {
-    //     List<Monster> source = new List<Monster>();
+    //     List<Monster> monsters = new List<Monster>();
+    //     List<Movie> movies = new List<Movie>();
+        
 
     //     using(StreamReader p = new StreamReader("Monster.json")
     //     {
@@ -24,10 +26,24 @@ public class Context : DbContext
     //         modelBuilder.Entity<Monster>().HasData(
     //             new Monster
     //             {
+    //                 ID = p.ID,
     //                 Title = p.Title,
     //                 Creator = p.Creator,
     //                 BirthYear = p.BirthYear,
     //                 SpecialAttack = p.SpecialAttack,
+    //             }
+    //         );
+    //         base.OnModelCreating(modelBuilder);
+    //     }
+    //     foreach (Movie p in source)
+    //     {
+    //         modelBuilder.Entity<Movie>().HasData(
+    //             new Movie
+    //             {
+    //                 ID = p.ID,
+    //                 Title = p.Title,
+    //                 Director = p.Director,
+    //                 YearReleased = p.YearReleased
     //             }
     //         );
     //         base.OnModelCreating(modelBuilder);

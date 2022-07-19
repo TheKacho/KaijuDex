@@ -34,4 +34,4 @@ The goal of creating this program is to make a Pokedex-style of Kaiju/Giant Mons
 - Create an additional class which inherits one or more properties from its parent
 - Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
 - Use a LINQ query to retrieve information from a data structure (such as a list or array) or file
--Visualize data in a graph, chart, or other visual representation of data (database data is displayed in rows & columns and on pages)
+- Visualize data in a graph, chart, or other visual representation of data (database data is displayed in rows & columns and on pages)

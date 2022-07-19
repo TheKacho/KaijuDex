@@ -18,6 +18,7 @@ The goal of creating this program is to make a Pokedex-style of Kaiju/Giant Mons
 - Clone the repo
 - Get to the Source folder/upload to Visual Studio Code
 - Type "dotnet run" on the Terminal to run the program
+- *(If the page does not load automatically, ctrl-click on the local host http link in the terminal/console!)*
 - To navigate through the site, click either "Monster" or "Movie"
 - From either "Monster" or "Movie" page, you can view, edit, or delete any available entry (Also, both "Monster" and "Movie" pages includes a "Add New Monster/Add New Movie" link)
 

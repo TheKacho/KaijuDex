@@ -1,5 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using System.IO;
+using Microsoft.AspNetCore.Hosting;
 using KaijuDex.Models;
 
 namespace KaijuDex.Controllers;
@@ -14,7 +16,7 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    {
+    {  
         return View();
     }
 

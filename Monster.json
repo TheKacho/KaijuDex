@@ -40,5 +40,47 @@
         "Creator": "Edgar Wallace",
         "Birth Year": 1933,
         "SpecialAttack": "Giant Punch"
+    },
+    {
+        "ID": 7,
+        "Title": "Rodan",
+        "Creator": "Ishiro Honda",
+        "Birth Year": 1956,
+        "SpecialAttack": "Sonic Wind Breath"
+    },
+    {
+        "ID": 8,
+        "Title": "Anguirus",
+        "Creator": "Motoyoshi Oda",
+        "Birth Year": 1955,
+        "SpecialAttack": "Rolling Thunder Water"
+    },
+    {
+        "ID": 9,
+        "Title": "Biollante",
+        "Creator": "Koichi Kawakita",
+        "Birth Year": 1989,
+        "SpecialAttack": "Piercing Rose Vines"
+    },
+    {
+        "ID": 10,
+        "Title": "Destoroyah",
+        "Creator": "Takeo Okawara",
+        "Birth Year": 1995,
+        "SpecialAttack": "Micro Oxygen Beam"
+    },
+    {
+        "ID": 11,
+        "Title": "Space Godzilla",
+        "Creator": "Unknown",
+        "Birth Year": 1994,
+        "SpecialAttack": "Corona Beam"
+    },
+    {
+        "ID": 12,
+        "Title": "Jet Jaguar",
+        "Creator": "Masaaki Sano",
+        "Birth Year": 1975,
+        "SpecialAttack": "Sword of Light"
     }
 ]

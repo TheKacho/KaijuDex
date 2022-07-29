@@ -1,6 +1,7 @@
 html {
   font-size: 14px;
   font-weight: bold;
+  text-shadow: 0 0 1px white;
 }
 
 @media (min-width: 768px) {
@@ -16,7 +17,7 @@ html {
 
 body {
   margin-bottom: 60px;
-  background-color: darkseagreen;
+  background-color: rgb(80, 206, 80);
 }
 
 .mainPage{
